@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontColor=ffffff&fontSize=40)
