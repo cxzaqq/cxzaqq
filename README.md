@@ -4,4 +4,6 @@
   
   ![Top Langs](https://github-readme-stats-lake-omega-11.vercel.app/api/top-langs/?username=cxzaqq&layout=compact)
   
+  📧roy1228@hansung.ac.kr📧
+  
 </div>
