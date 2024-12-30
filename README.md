@@ -2,7 +2,7 @@
 <hr>
 <div align=center>
   
-  ![Top Langs](https://github-readme-stats-lake-omega-11.vercel.app/api/top-langs/?username=cxzaqq&layout=compact&exclude_repo=HansungUniv-AI-Project,nomad)
+  ![Top Langs](https://github-readme-stats-lake-omega-11.vercel.app/api/top-langs/?username=cxzaqq&layout=compact)
   
   📧roy1228@hansung.ac.kr📧
   
