@@ -5,7 +5,7 @@
   ![Top Langs](https://github-readme-stats-lake-omega-11.vercel.app/api/top-langs/?username=cxzaqq&layout=compact&exclude_repo=HansungUniv-AI-Project,nomad)
   
   📧roy1228@hansung.ac.kr📧
-  <br>
+  <br><br>
   📘Languages📘
   <br>
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge">
@@ -28,8 +28,8 @@
 
   🔖IDEs🔖
   <br>
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/VScode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <br>
 
   👥co-op👥
