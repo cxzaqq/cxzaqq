@@ -1,3 +1,8 @@
+## 1. 문제 정의
+## 2. 원인 분석
+## 3. 해결 방안 모색
+## 4. 실행
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9bb7d6&height=150&text=Welcome!&fontColor=ffffff&fontSize=45&fontAlignY=40)
 
 <hr>
@@ -77,3 +82,4 @@
 </table>
   
 </div>
+-->
